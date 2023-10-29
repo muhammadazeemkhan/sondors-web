@@ -1,0 +1,24 @@
+/* 
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background: black;
+    height: 200px;
+    width: 100%;
+}
+.navbar>:nth-child(1){
+    width: 212px;
+    height: 18px;  
+    margin-left: 80px;
+    margin-top: 86px;
+} */
+
+
+button{
+    border: 1 px solid black;
+    border-radius: 64px;
+}
